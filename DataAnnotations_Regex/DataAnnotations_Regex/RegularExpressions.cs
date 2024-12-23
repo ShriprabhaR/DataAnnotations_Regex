@@ -29,7 +29,7 @@ namespace DataAnnotations_Regex
             Match match = reg.Match("ab");
             if (match.Success)
             {
-                Console.WriteLine(match.Value);
+                Console.WriteLine("Matched: " + match.Value);
             }
             else
             {
@@ -43,7 +43,7 @@ namespace DataAnnotations_Regex
             Match match = reg.Match("aaaaafb");
             if (match.Success)
             {
-                Console.WriteLine(match.Value);
+                Console.WriteLine("Matched: " + match.Value);
             }
             else
             {
@@ -57,12 +57,58 @@ namespace DataAnnotations_Regex
             Match match = reg.Match("No Shyam is good boy");
             if (match.Success)
             {
-                Console.WriteLine(match.Value);
+                Console.WriteLine("Matched: " + match.Value);
             }
             else
             {
                 Console.WriteLine("No matched value");
             }
         }
+
+        public static void Display4()
+        {
+            Regex reg = new Regex(@"Shri$");
+            Match match = reg.Match("Her name is Shri");
+            if (match.Success)
+            {
+                Console.WriteLine("Matched: " + match.Value);
+            }
+            else
+            {
+                Console.WriteLine("No matched value");
+            }
+        }
+
+        public static void Display5()
+        {
+            Regex reg = new Regex(@"S...j");
+            Match match = reg.Match("His name is Suuuraj and he is bad boys ");
+            if (match.Success)
+            {
+                Console.WriteLine("Matched: " + match.Value);
+            }
+            else
+            {
+                Console.WriteLine("No matched value");
+            }
+        }
+
+        public static void Display6()
+        {
+            //Regex reg = new Regex(@"[x-z]");
+            Regex reg = new Regex(@"[^x-z]");
+            Match match = reg.Match("xmax");
+            if (match.Success)
+            {
+                Console.WriteLine("Matched: "+match.Value);
+            }
+            else
+            {
+                Console.WriteLine("No matched value");
+            }
+        }
+
+
+
     }
 }

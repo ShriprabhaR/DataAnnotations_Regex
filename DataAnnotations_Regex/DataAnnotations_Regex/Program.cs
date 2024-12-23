@@ -18,7 +18,15 @@ namespace DataAnnotations_Regex
 
             //RegularExpressions.Display2();
 
-            RegularExpressions.Display3();
+            //RegularExpressions.Display3();
+
+            //RegularExpressions.Display4();
+
+            //RegularExpressions.Display5();
+
+            RegularExpressions.Display6();
+
+
         }
     }
 }
