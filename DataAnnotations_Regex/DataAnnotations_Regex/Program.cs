@@ -9,6 +9,8 @@ namespace DataAnnotations_Regex
         static void Main(string[] args)
         {
             UserDetails.InputValidation();
+
+            Regexpression.RegularExp();
         }
     }
 }
