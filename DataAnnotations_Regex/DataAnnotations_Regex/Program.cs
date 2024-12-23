@@ -8,9 +8,17 @@ namespace DataAnnotations_Regex
     {
         static void Main(string[] args)
         {
-            UserDetails.InputValidation();
+            //UserDetails.InputValidation();
 
-            Regexpression.RegularExp();
+            //Regexpression.RegularExp();
+
+            //RegularExpressions.Display();
+
+            //RegularExpressions.Display1();
+
+            //RegularExpressions.Display2();
+
+            RegularExpressions.Display3();
         }
     }
 }
