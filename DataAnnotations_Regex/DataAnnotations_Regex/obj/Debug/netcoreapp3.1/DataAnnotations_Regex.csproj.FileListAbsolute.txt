@@ -1,0 +1,14 @@
+C:\Users\HP\DataAnnotations_Regex\DataAnnotations_Regex\DataAnnotations_Regex\bin\Debug\netcoreapp3.1\DataAnnotations_Regex.exe
+C:\Users\HP\DataAnnotations_Regex\DataAnnotations_Regex\DataAnnotations_Regex\bin\Debug\netcoreapp3.1\DataAnnotations_Regex.deps.json
+C:\Users\HP\DataAnnotations_Regex\DataAnnotations_Regex\DataAnnotations_Regex\bin\Debug\netcoreapp3.1\DataAnnotations_Regex.runtimeconfig.json
+C:\Users\HP\DataAnnotations_Regex\DataAnnotations_Regex\DataAnnotations_Regex\bin\Debug\netcoreapp3.1\DataAnnotations_Regex.runtimeconfig.dev.json
+C:\Users\HP\DataAnnotations_Regex\DataAnnotations_Regex\DataAnnotations_Regex\bin\Debug\netcoreapp3.1\DataAnnotations_Regex.dll
+C:\Users\HP\DataAnnotations_Regex\DataAnnotations_Regex\DataAnnotations_Regex\bin\Debug\netcoreapp3.1\DataAnnotations_Regex.pdb
+C:\Users\HP\DataAnnotations_Regex\DataAnnotations_Regex\DataAnnotations_Regex\obj\Debug\netcoreapp3.1\DataAnnotations_Regex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\DataAnnotations_Regex\DataAnnotations_Regex\DataAnnotations_Regex\obj\Debug\netcoreapp3.1\DataAnnotations_Regex.AssemblyInfoInputs.cache
+C:\Users\HP\DataAnnotations_Regex\DataAnnotations_Regex\DataAnnotations_Regex\obj\Debug\netcoreapp3.1\DataAnnotations_Regex.AssemblyInfo.cs
+C:\Users\HP\DataAnnotations_Regex\DataAnnotations_Regex\DataAnnotations_Regex\obj\Debug\netcoreapp3.1\DataAnnotations_Regex.csproj.CoreCompileInputs.cache
+C:\Users\HP\DataAnnotations_Regex\DataAnnotations_Regex\DataAnnotations_Regex\obj\Debug\netcoreapp3.1\DataAnnotations_Regex.sourcelink.json
+C:\Users\HP\DataAnnotations_Regex\DataAnnotations_Regex\DataAnnotations_Regex\obj\Debug\netcoreapp3.1\DataAnnotations_Regex.dll
+C:\Users\HP\DataAnnotations_Regex\DataAnnotations_Regex\DataAnnotations_Regex\obj\Debug\netcoreapp3.1\DataAnnotations_Regex.pdb
+C:\Users\HP\DataAnnotations_Regex\DataAnnotations_Regex\DataAnnotations_Regex\obj\Debug\netcoreapp3.1\DataAnnotations_Regex.genruntimeconfig.cache
